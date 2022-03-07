@@ -1,0 +1,6 @@
+.idea
+node_modules
+*.sublime-project
+*.sublime-workspace
+build/user.properties
+public/js
